@@ -1,0 +1,12 @@
+# Core packages
+Flask==3.0.0
+flask-cors==4.0.0
+
+# ML & Data handling
+scikit-learn==1.6.1
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
+
+# Optional but useful
+gunicorn==21.2.0  # For production server on GCP
